@@ -1,0 +1,26 @@
+{
+  "name": "elm-2d-game-examples",
+  "version": "1.0.0",
+  "description": "This makes use of the [game-2d](http://package.elm-lang.org/packages/Zinggi/elm-2d-game/latest/) and [game-resources](http://package.elm-lang.org/packages/Zinggi/elm-game-resources/latest) library.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "elm-hot": "^1.1.4",
+    "node-elm-compiler": "^5.0.4",
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zinggi/elm-2d-game-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zinggi/elm-2d-game-examples/issues"
+  },
+  "homepage": "https://github.com/Zinggi/elm-2d-game-examples#readme"
+}
